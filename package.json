@@ -1,0 +1,24 @@
+{
+  "name": "preentregafinal2_pb_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+   
+  },
+  "keywords": [],
+  "author": "Diego Ariel Simonelli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "firebase-admin": "^10.0.0",
+    "knex": "^1.0.4",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
